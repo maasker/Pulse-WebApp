@@ -8,3 +8,4 @@ Your data stays on the phone (localStorage). Back up with ⚙︎ → Export now 
 ## Install on iPhone
 Open that link in Safari → Share → Add to Home Screen → Add.
 Always open it from the home-screen icon (Safari and the icon keep separate data).
+Live at https://maasker.github.io/Pulse-WebApp/
