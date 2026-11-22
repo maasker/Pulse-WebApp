@@ -17,3 +17,4 @@ Always open it from the home-screen icon (Safari and the icon keep separate data
 
 ## Update
 Replace index.html in the repo, and bump VERSION in sw.js. Open the app twice to load the new version.
+
